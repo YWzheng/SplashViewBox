@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">SplashViewBox</string>
     <string name="twitter_splash">Twitter Splash</string>
+    <string name="action_github">view in github</string>
 </resources>
